@@ -1,5 +1,5 @@
-### Hi there, I'm a Game Developer and programmer based out of Canada 🇨🇦
+### Hi there, I'm an AI developer and programmer based out of Canada 🇨🇦
 
-- 🔭 I’m currently working on [ThirdStore](https://discord.gg/nocturna-team-1144047674614616135)
-- 🌱 I’m currently learning Javascript, C#, Python
+- 🔭 I’m currently working on Something New©.
+- 🌱 I’m currently learning Javascript, Swift, Python
 - 📫 How to reach me: loyahdevapp@icloud.com
