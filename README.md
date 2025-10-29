@@ -1,4 +1,4 @@
-### Hi there, I'm an AI developer and programmer based out of Canada 🇨🇦
+### Hi there, I'm an AI researcher and programmer based out of Canada 🇨🇦
 
 - 🔭 I’m currently working on [Nocturna](https://nocturnacerts.com).
 - 🌱 I’m currently learning React, Python, Music Production
